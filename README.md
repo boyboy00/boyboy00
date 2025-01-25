@@ -1,6 +1,6 @@
 - Hi, I’m @boyboy00, 
 - I’m interested in computer science
-~~- I’m currently learning web development through theodinproject!~~
+- I am currently learning... schooling
 - I’m looking to collaborate on ... (???)
 - How to reach me ...
 - Pronouns: he/him
